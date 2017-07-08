@@ -22,9 +22,6 @@ Or install it yourself as:
 
 Initialize a WebInspector instance for an URL, like this:
 
-```ruby
-page = WebInspector.new('http://davidesantangelo.com')
-```
 
 ## Accessing response status and headers
 
